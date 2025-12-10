@@ -16,7 +16,7 @@
   </p>
 </div>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">🛠️ Skills & Tools</h2>
 
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="margin: 0 10px;" />
 </p>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
