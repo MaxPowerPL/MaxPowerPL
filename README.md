@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-generator-xi.vercel.app/api/typing?lines=C%2B%2B%3B%20JS%3B%20HTML5%3B%20CSS%3B%20Wordpress%3B%20Tworz%C4%99%20strony%20frontendowe%3B&color=00FF41" />
+  <img src="https://github-readme-generator-xi.vercel.app/api/typing?lines=C%2B%2B%3BJavaScript%3BHTML5%3BCSS%3BWordpress%3BCreating%20front-end%20pages%3B&color=00FF41" />
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
